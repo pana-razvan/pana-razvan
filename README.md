@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pana-razvan
 - 👀 I’m interested in programming useful apps that make my and everybody else's life easier.
-- 🌱 I’m currently learning Python and will soon move on to other languages and skills.
+- 🌱 I’m intrested in joining Python Projects and learning more about Cloud Computing.
 - 💞️ I’m looking to collaborate on apps that "do stuff FOR you".
-- 📫 If, by any chance, you would like to reach me... try sending a message to pana.razvanATyahooDOTcom.
+- 📫 If you want to chat anytime, I'm always up for a chat.
